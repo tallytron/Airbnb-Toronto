@@ -18,4 +18,4 @@ Then, I had to specify what "active listings" imply for the purposes of this res
 
 In light of this, I delved into the study in search of Airbnb's primary income contributors (as determined by several criteria) and if the company has reached its maximum revenue potential.
 
-Check out the SQL code here. 
+Check out the SQL code [here.](https://github.com/tallytron/Airbnb-Toronto/blob/01e1eaca09dd0990bad2132263107bee3a9baace/Airbnb.sql) 
