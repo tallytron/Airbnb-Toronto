@@ -1,3 +1,5 @@
+![airbnb](https://github.com/user-attachments/assets/fec70754-be01-4b2f-88b2-d34f07ff8287)
+
 # Airbnb Toronto - Analysis using SQL and Tableau 
 
 I stumbled upon a website called Inside Airbnb. Naturally, I thought it was a good idea to take a look at the data on my home city of Toronto and see what I can find.
